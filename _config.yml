@@ -1,12 +1,12 @@
 # Site settings
-title:
-email:
-description: > # this means to ignore newlines until "baseurl:"
-baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+title: Kai Herron
+email: kaiherron28@gmail.com
+description: This is Kai Herron's website. > # this means to ignore newlines until "baseurl:"
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "kai-herron.github.io" # the base hostname & protocol for your site
 
-twitter_username:
-github_username:
+twitter_username: @bigmamikai
+github_username: kai-herron
 
 # Build settings
 markdown: kramdown
